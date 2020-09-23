@@ -1,2 +1,2 @@
-# exercicio
+# hello-world
 Created with CodeSandbox
